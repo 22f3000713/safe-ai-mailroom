@@ -31,7 +31,7 @@ REQUEST_BUDGET = 45            # seconds we wait for the model inside one reques
 # LLM_MODEL = os.getenv("LLM_MODEL", "gpt-4o-mini")
 
 LLM_BASE = "https://aipipe.org/openai/v1"
-LLM_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIyZjMwMDA3MTNAZHMuc3R1ZHkuaWl0bS5hYy5pbiIsImlhdCI6MTc5MjY0Mjk3NCwiaXNzIjoiaHR0cHM6Ly9haXBpcGUub3JnIiwiYXVkIjoiYWlwaXBlLWFwaSIsImV4cCI6MTc5MzI0Nzc3NH0.XxRidSftin-sCMgcOAUrlfXmFpaYA7JUwEXiLla8rjk"
+LLM_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIyZjMwMDA3MTNAZHMuc3R1ZHkuaWl0bS5hYy5pbiIsImlhdCI6MTc5MzI5ODgzNywiaXNzIjoiaHR0cHM6Ly9haXBpcGUub3JnIiwiYXVkIjoiYWlwaXBlLWFwaSIsImV4cCI6MTc5MzkwMzYzN30.XCDrxKNtcA3l4T3ZZTO0S8ZkfDoa_i9AdXRLETw9wXg"
 LLM_MODEL = "gpt-4.1-mini"
 
 DB_PATH = os.getenv("DB_PATH", "mailroom.db")
